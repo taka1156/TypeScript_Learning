@@ -1,0 +1,17 @@
+{
+  "name": "ts_learning",
+  "version": "1.0.0",
+  "author": "taka <taka05061@gamil.com>",
+  "private": true,
+  "scripts": {
+    "lint": "tslint --format",
+    "tsc": "tsc",
+    "ts-node": "ts-node"
+  },
+  "devDependencies": {
+    "ts-node": "8.4.1",
+    "tslint": "5.20.0",
+    "tslint-config-airbnb": "5.11.2",
+    "typescript": "3.6.4"
+  }
+}

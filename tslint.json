@@ -1,0 +1,20 @@
+{
+    "defaultSeverity": "error",
+    "lintOptions": {
+        "typeCheck": true
+    },
+    "extends": [
+        "tslint:recommended",
+        "tslint-config-airbnb"
+    ],
+    "jsRules": {},
+    "rules": {
+        //"variable-name": false,
+        "encoding": true,
+        "no-trailing-whitespace": true,
+        "no-console": false,
+        "quotemark": [ true , "single" ],
+        "semicolon": [ true , "always" ]
+    },
+    "rulesDirectory": []
+}
