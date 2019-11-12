@@ -5,4 +5,4 @@ var check = function (x, y) {
     console.log(x > y || x === y);
     console.log(x >= y);
 };
-console.log(check(null, 0));
+check(null, 0);

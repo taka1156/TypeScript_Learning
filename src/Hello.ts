@@ -5,5 +5,4 @@ let check = (x: any , y: any): void => {
   console.log(x > y || x === y);
   console.log(x >= y);
 };
-
-console.log(check(null, 0));
+check(null, 0);
