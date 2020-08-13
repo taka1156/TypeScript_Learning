@@ -1,7 +1,7 @@
 "use strict";
-var lang = 'TypeScript';
-console.log("Hello " + lang + " World");
-var check = function (x, y) {
+let lang = 'TypeScript';
+console.log(`Hello ${lang} World`);
+let check = (x, y) => {
     console.log(x > y || x === y);
     console.log(x >= y);
 };
