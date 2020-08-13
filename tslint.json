@@ -9,7 +9,6 @@
     ],
     "jsRules": {},
     "rules": {
-        //"variable-name": false,
         "encoding": true,
         "no-trailing-whitespace": true,
         "no-console": false,
