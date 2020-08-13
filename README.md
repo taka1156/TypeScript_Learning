@@ -1,6 +1,12 @@
 # typescript-learn
 TypeScriptの勉強
 
+## 教材
+[超TypeScript入門 完全パック(2020) - udemy](https://www.udemy.com/share/102EQgBksceVdWTHw=/)
+の実験場所兼挙動確認用のリポジトリ<br>
+
+lesson番号は必ずしも一致していなことがあり、ソースコードも一部挙動確認のためいじっている部分があります
+
 ## コマンド
 - `tsc ファイル名 --out ./build`<br>
 buildフォルダに出力<br>
@@ -19,3 +25,6 @@ buildフォルダに出力<br>
 
 - 2020/8/13<br>
   環境修復、コンパイルの設定をES6に変更
+
+- 2020/8/14<br>
+  lesson28まで実施及び挙動確認
