@@ -8,7 +8,7 @@ TypeScriptの勉強
 lesson番号は必ずしも一致していなことがあり、ソースコードも一部挙動確認のためいじっている部分があります
 
 ## コマンド
-- `tsc ファイル名 --out ./build`<br>
+- `yarn tsc ファイル名 --outDir ./build --strict　--target es6`<br>
 buildフォルダに出力<br>
   注意: [typescript outDir setting in tsconfig.json not working - StackOverFlow](https://stackoverflow.com/questions/45661027/typescript-outdir-setting-in-tsconfig-json-not-working)
 
